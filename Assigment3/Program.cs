@@ -12,7 +12,7 @@ namespace Assigment3
     {
         static void Main(string[] args)
         {
-            #region ASSIGMENT[3]
+            #region ASSIGMEN[3]
             //1.Write a program that allows the user to enter a number then print it.
             //int Number;
             //Console.Write("Enter Number:");
